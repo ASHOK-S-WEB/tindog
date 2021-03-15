@@ -1,0 +1,140 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+p {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.cointainer-fluid {
+  padding: 3% 15% 9%;
+}
+
+.navbar {
+  padding-bottom: 3rem;
+}
+
+.t {
+  font-family: "Fredericka the Great", cursive;
+  font-size: 4rem;
+  font-weight: normal;
+  padding-right: 5%;
+}
+
+.t:hover {
+  color: #ff4c68;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.nav-item {
+  font-size: 1.25rem;
+  padding-left: 20px;
+}
+
+.title-img {
+  transform: rotate(25deg);
+  height: 200%;
+  right: 30%;
+  position: absolute;
+}
+
+.cst-btn {
+  margin: 4% 3% 0 2%;
+}
+
+#features {
+  padding: 7% 15%;
+  position: relative;
+  background-color: #fff;
+}
+
+.icon {
+  color: #ef8178;
+  padding-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.par {
+  color: #8f8f8f;
+  padding: 0 2rem;
+}
+
+.feat {
+  text-align: center;
+}
+
+/*testimonial*/
+#testimonials {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.testimonial-text {
+  margin: 0 25%;
+  padding: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  width: 100px;
+  margin-right: 2%;
+}
+
+/*press*/
+
+#press {
+  background-color: #ff4c68;
+  padding: 4rem 0 2rem 0;
+}
+
+.press {
+  margin: 30px auto 30px auto;
+  text-align: center;
+}
+
+.press img {
+  margin: 2%;
+}
+
+/*pricing*/
+#pricing {
+  padding: 20px;
+  margin: 2% 10%;
+  line-height: 2;
+  text-align: center;
+}
+
+#pricing h2 {
+  font-weight: 700;
+}
+
+.pricing {
+  padding: 3% 2%;
+}
